@@ -27,5 +27,7 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
-
+##Screenshot
 ![Screenshot 2023-08-31 175625](https://github.com/CodyCCL/Challenge-2/assets/142187489/8132b190-f14d-48c8-833f-a55ded471ac2)
+
+Source: index.html
